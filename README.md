@@ -1,4 +1,5 @@
 # Feladat 004:
+* https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok#feladat_005 itt tudod meg nézni a feladatot.
 * Töltse le a repositoryt.
 1.  A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe.
 2.  Állítsa be az oldalt magyar nyelvűre.
